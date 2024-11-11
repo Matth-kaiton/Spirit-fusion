@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal engine Project/Spirit_Fusion/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Unreal engine Project/Spirit_Fusion/Content/Spirit_fusion/maps/Map_test.umap",
+				"C:/Unreal engine Project/Spirit_Fusion/Content/Spirit_fusion/Blueprint/BP_Base.uasset",
+				"C:/Unreal engine Project/Spirit_Fusion/Content/Blueprints/BP_Enemie/BP_test.uasset",
+				"C:/Unreal engine Project/Spirit_Fusion/Content/Spirit_fusion/Blueprint/BP_Enemie/BP_test.uasset",
+				"C:/Unreal engine Project/Spirit_Fusion/Content/Spirit_fusion/Blueprint/Enemie/AIC_Enemie.uasset",
+				"C:/Unreal engine Project/Spirit_Fusion/Content/Spirit_fusion/Blueprint/Enemie/BP_test.uasset",
+				"C:/Unreal engine Project/Spirit_Fusion/Content/Spirit_fusion/BackBoard_Date_test.uasset"
+			]
+		}
+	]
+}
